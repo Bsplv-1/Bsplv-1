@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+"description": "My name is Dzianis and I'm aspiring QA Engineer.",
 <!--
 **Bsplv-1/Bsplv-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
