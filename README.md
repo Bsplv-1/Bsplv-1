@@ -22,8 +22,10 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 </a>
 
 ### Certificates received so far!
-![Maria Bespalova_Postman.png](https://drive.google.com/file/d/1Ql8E2KpyAK-GxdoEj6CukHuS2NsiJ8CX/view?usp=sharing)
-![Maria Bespalova_SQL.png] (https://drive.google.com/file/d/16O24otPBscY__CiIpIF6RO8SKiLPw6bn/view?usp=sharing)
+![Maria Bespalova_SQL](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/6cd653d6-6936-4b0f-9b6b-5702f73a3317)
+![Maria Bespalova_Postman](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/1e4ec9ef-57d5-4ed3-8d3e-5be41f3c6e31)
+
+
 <!--
 **Bsplv-1/Bsplv-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
