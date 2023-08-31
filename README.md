@@ -13,7 +13,7 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 - 📄 Check my [CV](https://)
 - 📫 Write me something:) **@gmail.com**
 
-Connect with me:
+<h3 align="left">Connect with me:</h3>
 <a href="https://t.me/bsplvm">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
