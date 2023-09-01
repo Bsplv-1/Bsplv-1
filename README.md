@@ -28,6 +28,7 @@ Welcome to check my
 
 
 <!--
+ {"skills_1":"git", "skills_2":"json", "skills_3":"postman", "skills_4":"charles", "skills_5":"HTTP", "skills_6":"Fiddler", "skills_7":"DevTools", "skills_8":"VPN", "skills_9":"mobile", "skills_10":"SQL", "skills_10":"Postgres", "skills_11":"Redis", "skills_12":"Jmeter", "skills_13":"scrum", "skills_14":"Python"}
 **Bsplv-1/Bsplv-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
