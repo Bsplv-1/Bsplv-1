@@ -12,7 +12,7 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 
 Welcome to check my
 - 📄 [CV](https://drive.google.com/file/d/1rWukWrt3hc5mj4qKSdqfBJALy_aIh8On/view?usp=sharing)
-- 📌 GitHub repositories with my homework on topics: Terminal, SQL, Postman, Mobile testing
+- 📌 GitHub repositories with my homework on topics: Terminal, SQL, Postman, Mobile testing, CheckLists, Bag_Reports, Jmeter, Json.
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/bsplvm">
