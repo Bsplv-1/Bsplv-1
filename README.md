@@ -26,8 +26,8 @@ Welcome to check my
 </a>
 
 ### Certificates received so far!
-![Maria Bespalova_SQL](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/6cd653d6-6936-4b0f-9b6b-5702f73a3317)
 ![Maria Bespalova_Postman](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/1e4ec9ef-57d5-4ed3-8d3e-5be41f3c6e31)
+![Maria Bespalova_SQL](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/6cd653d6-6936-4b0f-9b6b-5702f73a3317)
 ![Maria Bespalova_Terminal](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/f5361fe6-5c9c-4aec-b76b-b2190de977cd)
 
 
