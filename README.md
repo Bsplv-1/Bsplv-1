@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Maria and I'm a QA Engineer with over 6 months of experience.
 
-This is my GitHub page, and here you can find what I've learned and practiced at software testing courses. Feel free to contact me if you are interested and would like me to be part of your development team
+This is my GitHub page, and here you can find what I've learned and practiced at software testing courses. Feel free to contact me if you are interested and would like me to be a part of your development team.
 
 ### Tools and Languages:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
