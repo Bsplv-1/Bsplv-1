@@ -17,7 +17,7 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 - 📄 [CV](https://drive.google.com/file/d/1rWukWrt3hc5mj4qKSdqfBJALy_aIh8On/view?usp=sharing)
 - 📌 GitHub repositories with my homework on topics: Terminal, SQL, Postman, Mobile testing, CheckLists, Bag_Reports, Jmeter, Json.
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <a href="https://t.me/bsplvm">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
