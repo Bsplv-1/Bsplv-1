@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=31F720E3&width=1000&lines=My+name+is+Maria+and+I'm+a+QA+Engineer;+with+over+6+months+of+experience.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=31F720E3&width=1000&lines=My+name+is+Maria+and+I'm+a+QA+Engineer+with+over+6+months+of+experience.)](https://git.io/typing-svg)
 This is my GitHub page, and here you can find what I've learned and practiced at QA courses. Feel free to contact me if you are interested and would like me to be a part of your development team.
 
 ### Hard skills:
