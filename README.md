@@ -18,13 +18,6 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 - 📌 GitHub repositories with my homework on topics: Terminal, SQL, Postman, Mobile testing, CheckLists, Bag_Reports, Jmeter, Json.
 
 ### Connect with me:
-<a href="https://t.me/bsplvm">
-	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://www.linkedin.com/in/maria-bespalova-qa/">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bsplvm)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-bespalova-qa/)
 
