@@ -24,7 +24,6 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 <a href="https://www.linkedin.com/in/maria-bespalova-qa/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-[![Обложка к видео «Дока — как добавить пулреквест со статьёй»](https://i3.ytimg.com/vi/y-_nXfKkI3w/hqdefault.jpg)](https://www.youtube.com/watch?v=y-_nXfKkI3w)
 
 ### Certificates received so far!
 ![Maria Bespalova_Postman](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/1e4ec9ef-57d5-4ed3-8d3e-5be41f3c6e31)
