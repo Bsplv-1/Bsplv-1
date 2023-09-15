@@ -6,7 +6,7 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=Postgresl&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jmeter](https://img.shields.io/badge/jmeter-grey?style=for-the-badge&logo=apache&logoColor=red)
 ![DevTools](https://img.shields.io/badge/DevTools-db3a2c?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
