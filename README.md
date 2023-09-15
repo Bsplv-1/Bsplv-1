@@ -25,7 +25,7 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-[![Linkedin](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)9https://t.me/bsplvm)]
+[![Linkedin](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bsplvm)
 
 https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white
 
