@@ -25,9 +25,9 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-[![Linkedin](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bsplvm)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bsplvm)
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://t.me/bsplvm](https://www.linkedin.com/in/maria-bespalova-qa/))
 
 ### Certificates received so far!
 ![Maria Bespalova_Postman](https://github.com/Bsplv-1/Bsplv-1/assets/66821390/1e4ec9ef-57d5-4ed3-8d3e-5be41f3c6e31)
