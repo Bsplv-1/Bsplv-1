@@ -16,7 +16,7 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 
 ### Welcome to check my:
 - 📄 [CV](https://drive.google.com/file/d/1rWukWrt3hc5mj4qKSdqfBJALy_aIh8On/view?usp=sharing)
-- 📌 GitHub repositories with my homework on topics: Terminal, SQL, Postman, Mobile testing, CheckLists, Bag_Reports, Jmeter, [Json](https://github.com/Bsplv-1/JSON).
+- 📌 GitHub repositories with my homework on topics: [Terminal](https://github.com/Bsplv-1/Terminal), [SQL](https://github.com/Bsplv-1/SQL), [Postman](https://github.com/Bsplv-1/Postman), [Mobile testing](https://github.com/Bsplv-1/Mobile_testing), [CheckLists](https://github.com/Bsplv-1/CheckLists), [Bag_Reports](https://github.com/Bsplv-1/Bag_Reports), [Jmeter](https://github.com/Bsplv-1/Jmeter), [Json](https://github.com/Bsplv-1/JSON).
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bsplvm)
