@@ -25,7 +25,8 @@ This is my GitHub page, and here you can find what I've learned and practiced at
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)
+
 https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white
 
 ### Certificates received so far!
